@@ -64,8 +64,8 @@ testem.log
 /typings
 
 # Secrets
-enviroment.prod.ts
-enviroment.ts
+src/environments/enviroment.prod.ts
+src/environments/enviroment.ts
 
 # System files
 .DS_Store
